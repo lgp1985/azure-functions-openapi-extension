@@ -8,12 +8,12 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
     <Version>1.0.0</Version>
-    <PackageId>Microsoft.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings</PackageId>
+    <PackageId>lgp1985.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings</PackageId>
     <Title>Microsoft.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings</Title>
     <Summary>This package provides a base app settings capability deserialising environment variables into IConfiguration object.</Summary>
     <Description>This package provides a base app settings capability deserialising environment variables into IConfiguration object.</Description>
     <PackageTags>Azure-Functions, Configuration, AppSettings</PackageTags>
-    <AssemblyName>Microsoft.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings</AssemblyName>
+    <AssemblyName>lgp1985.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings</AssemblyName>
     <RootNamespace>Microsoft.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings</RootNamespace>
   </PropertyGroup>
 
